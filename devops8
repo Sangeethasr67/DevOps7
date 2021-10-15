@@ -1,0 +1,6 @@
+git touch file4
+git status
+git add file4
+git status
+git commit -m "test commit" 
+git push
